@@ -26,7 +26,3 @@ This project covers the basics of TypeScript through a series of tasks.
 npm install
 npm run build
 ```
-
-## Author
-
-Holberton School
